@@ -97,4 +97,4 @@ Este repositorio se distribuye bajo la licencia **MIT**.
 
 ---
 
-Hecho con ❤️ por **\Mxz-11**
+Hecho con ❤️ por **Mxz-11**
