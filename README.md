@@ -19,9 +19,7 @@
 ## 📸 Vista previa
 
 ```text
-┌─────────
- Hardware Information
-─────────┐
+┌─────────  Hardware Information ─────────┐
    󰌢  Model: Framework Laptop 13
    󰍛  CPU: Intel i7‑1185G7
    󰘚  GPU: Intel Iris Xe
@@ -29,9 +27,7 @@
      Memory: 8 GiB / 32 GiB
    󰍹  Resolution: 2256×1504 @ 60 Hz
    󱈑  Battery: 89 %
-├─────────
- Software Information
-─────────┤
+├─────────  Software Information ─────────┤
      Distro: Arch Linux
      Kernel: 6.9.1‑arch1‑1
      DE: KDE Plasma 6.0.3
@@ -54,7 +50,7 @@
 1. **Clona o descarga** este repositorio:
 
    ```bash
-   git clone https://github.com/<TU‑USUARIO>/<TU‑REPO>.git
+   git clone [https://github.com/<TU‑USUARIO>/<TU‑REPO>.git](https://github.com/Mxz-11/Neofetch_config.git)
    ```
 2. **Copia** el archivo de configuración:
 
